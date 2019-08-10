@@ -3,6 +3,20 @@
   min-height: 8vh;
 }
 
-.purple-k{
+.purple{
   color:#9e379f;
+}
+
+.image-row{
+  background-image: url("lake.png");
+  background-size: cover;
+  min-height: 80vh;
+}
+
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 64px;
 }
