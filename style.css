@@ -8,7 +8,7 @@
 }
 
 .image-row{
-  background-image: url("lake.png");
+  background-image: url("marble.png");
   background-size: cover;
   min-height: 80vh;
 }
@@ -23,6 +23,8 @@
 
 .special-font{
   font-family: 'Handlee', cursive;
+  /* font-weight: bolder; */
+  font-size: 120px;
 }
 
 .about-me{
