@@ -36,3 +36,8 @@
   width: 260px;
   height: auto;
 }
+
+.languages{
+  background-color: wheat;
+  min-height: 35vh;
+}
