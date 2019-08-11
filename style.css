@@ -38,6 +38,16 @@
 }
 
 .languages{
-  background-color: wheat;
+  background-color: white;
   min-height: 35vh;
+}
+
+.projects{
+  background-color: #dfdfde;
+  min-height: 50vh;
+}
+
+.contact-info{
+  background-color: #9e379f;
+  min-height: 32vh;
 }
