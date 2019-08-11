@@ -8,7 +8,7 @@
 }
 
 .image-row{
-  background-image: url("marble.png");
+  background-image: url("pacificCity.png");
   background-size: cover;
   min-height: 80vh;
 }
@@ -24,7 +24,7 @@
 .special-font{
   font-family: 'Handlee', cursive;
   /* font-weight: bolder; */
-  font-size: 120px;
+  /* font-size: 120px; */
 }
 
 .about-me{
