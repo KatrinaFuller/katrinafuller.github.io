@@ -50,3 +50,8 @@
   background-color: #9e379f;
   min-height: 32vh;
 }
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: black;
+}
