@@ -11,6 +11,7 @@
   background-image: url("pacificCity.png");
   background-size: cover;
   min-height: 92vh;
+  background-position-y: center;
 }
 
 .centered{
