@@ -60,7 +60,7 @@ a:link, a:visited, a:hover, a:active {
   font-size: 5rem;
 }
 
-.card-img-top {
-  height: 170px;
-  width: 288px;
+.card-image-top {
+  height: 270px;
+  width: 545px;
 }
