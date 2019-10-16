@@ -56,15 +56,16 @@ a:link, a:visited, a:hover, a:active {
   color: black;
 }
 
-.devicon-csharp-plain {
+.devicon {
   font-size: 5rem;
 }
 
+
 .card-img-top {
-  /* height: 270px;
-  width: 545px; */
+  height: 300px;
+  /* width: 545px; */
   max-width: 100%;
-  height: auto;
+  /* height: auto; */
 }
 
 .card:hover {
