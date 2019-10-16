@@ -61,6 +61,15 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .card-img-top {
-  height: 270px;
-  width: 545px;
+  /* height: 270px;
+  width: 545px; */
+  max-width: 100%;
+  height: auto;
+}
+
+.card:hover {
+  transform: scale(0.9, 0.9);
+  box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+    -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+  cursor: pointer;
 }
