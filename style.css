@@ -59,3 +59,8 @@ a:link, a:visited, a:hover, a:active {
 .devicon-csharp-plain {
   font-size: 5rem;
 }
+
+.card-img-top {
+  height: 170px;
+  width: 288px;
+}
