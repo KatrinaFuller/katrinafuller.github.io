@@ -74,3 +74,9 @@ a:link, a:visited, a:hover, a:active {
     -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
   cursor: pointer;
 }
+
+@media only screen and (min-width: 991px) {
+ .info-about-me {
+  padding-right: calc((50vw - 260px) / 2)
+}
+}
